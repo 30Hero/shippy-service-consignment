@@ -1,4 +1,4 @@
-module github.com/30Hero/shippy/shippy-service-consignment
+module github.com/30Hero/shippy-service-consignment
 
 go 1.16
 
